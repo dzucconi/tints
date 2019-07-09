@@ -1,0 +1,21 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0.5em;
+  text-align: center;
+}
+
+.tint {
+  display: inline-block;
+  margin: 0.5em;
+  width: 440px;
+  height: 560px;
+}

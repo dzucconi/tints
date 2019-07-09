@@ -1,5 +1,6 @@
 .DS_Store
-build
-node_modules
 .env
-.awspublish-*
+.cache
+node_modules
+build
+dist

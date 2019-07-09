@@ -1,4 +1,0 @@
-#!/usr/bin/env sh
-
-# Export the environment variables & deploy
-env $(cat .env | xargs) gulp deploy
