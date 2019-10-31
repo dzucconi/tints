@@ -10,7 +10,7 @@
     "parcel": "1.12.4"
   },
   "dependencies": {
-    "chroma-js": "2.0.6",
+    "chroma-js": "2.1.0",
     "lodash.shuffle": "4.2.0"
   }
 }
